@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Big Mama Thornton, Queen of Rock and Roll</title>
+  
+<style>
+  .img {
+     max-width: 100%;
+     height: auto;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 40%;
+  }
+    </style>
+</head>
+<body>
+  <div id="main"> 
+    <h1 id="title" style="text-align:center">Big Mama Thornton, Queen of Rock and Roll</h1>
+    <div id="img-div">
+     <img src="https://miro.medium.com/max/1200/1*XfFU4_chkxDBOrnBUk4HEA.jpeg" alt="Big Mama Thornton Portrait" id="image" class="img">
+     <p id="img-caption" style="text-align:center"><em>Big Mama Thornton on Stage</em></p>
+    </div>
+    <div id="tribute-info" style="text-align:center"><h2>Big Mama Thornton deserves credit as the Queen of Rock and Roll</h2></div>
+      <p>Willie Mae “Big Mama” Thornton was an artist that created a genre of music that was based on black female excellence and denying the crushing stereotypes that existed for those who lived at the intersection of race and gender in the 1950s. Thornton’s work on her biggest hit, “Hound Dog” represents a revolutionary form of musicality and black femininity that came to be known as Rock ’N’ Roll. This form of musicality was then taken from the black women who created it and commercialized into a genre that excludes them. </p>
+       <p>Thornton's career began to take off when she moved to Houston in 1948. "A new kind of popular blues was coming out of the clubs in Texas and Los Angeles, full of brass horns, jumpy rhythms, and wisecracking lyrics." In 1951 she signed a recording contract with Peacock Records and performed at the Apollo Theater in 1952. Also in 1952, while working with another Peacock artist Johnny Otis, she recorded "Hound Dog", the first record produced by its writers Jerry Leiber and Mike Stoller. The pair were present at the recording, with Leiber demonstrating the song in the vocal style they had envisioned. "We wanted her to growl it," Stoller said, which she did. </p>
+      <p><a href="https://youtu.be/yoHDrzw-RPg" id="tribute-link" target="_blank">Big Mama Thornton's 1952 Recording of "Hound Dog"</a></p>
+      <p>The record sold more than half a million copies, and went to number one on the R&B chart, helping to bring in the dawn of rock 'n' roll. Although the record made Thornton a star, she saw little of the profits.</p>
+      <p>Thornton's success with "Hound Dog" was followed three years later by Elvis Presley recording his hit version of the song. His recording at first annoyed Leiber who wrote, "I have no idea what that rabbit business is all about. The song is not about a dog, it's about a man, a freeloading gigolo." But Elvis' version sold ten million copies, so today few fans know that "Hound Dog" began as "an anthem of black female power." Similarly, Thornton originally recorded her song "Ball 'n' Chain" for Bay-Tone Records in the early 1960s, "and though the label chose not to release the song, they did hold on to the copyright — which meant that Thornton missed out on the publishing royalties when Janis Joplin recorded the song later in the decade.</p>
+      <p>As her career began to fade in the late 1950s and early 1960s, she left Houston and relocated to the San Francisco Bay area, "playing clubs in San Francisco and L.A. and recording for a succession of labels." By 1969, Thornton had signed with Mercury Records, which released her most successful album, Stronger Than Dirt, which reached number 198 in the Billboard Top 200 record chart.</p>
+      <p>Thornton had now signed a contract with Pentagram Records and could finally fulfill one of her biggest dreams. A blues woman and the daughter of a preacher, Thornton loved the blues and what she called the "good singing" of gospel artists like the Dixie Hummingbirds and Mahalia Jackson. She had always wanted to record a gospel record, and with the album Saved (PE 10005), she achieved that longtime goal.</p>
+      <p>In the 1970s, years of heavy drinking began to damage Thornton's health. Thornton's last albums were Jail and Sassy Mama for Vanguard Records in 1975. Thornton was found dead at age 57 by medical personnel in a Los Angeles boarding house on July 25, 1984. She died of heart and liver disorders due to her longstanding alcohol abuse. She had lost 355 pounds (161 kg) in a short time as a result of illness, her weight dropping from 450 to 95 pounds (204–43 kg).</p>
+      <p>During her career, Thornton was nominated for the Blues Music Awards six times. In 1984, she was inducted into the Blues Hall of Fame. Her "Ball 'n' Chain" is included in the Rock and Roll Hall of Fame list of the "500 Songs That Shaped Rock and Roll". However, as an artist, her influence was wildly overshadowed by her white contemporaries like Elvis Presley and Janis Joplin.
+    </div>
+  </div>
+</body>
+</html>
